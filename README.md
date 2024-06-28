@@ -31,4 +31,6 @@ You can use tools like Postman or curl to test the application.
         }
     }
     ```
-3. Send the request and observe the response , adding screenshot of final response.
+3. Send the request and observe the response, adding screenshot of final response.
+<img width="976" alt="Response" src="https://github.com/shivangisachan20/Magical_Arena/assets/76780454/92182fa5-4b3a-4a35-8ef7-7e955b7b69ed">
+<img width="758" alt="Response_2" src="https://github.com/shivangisachan20/Magical_Arena/assets/76780454/bda1a110-424f-4b77-92b4-5aace9580d8b">
